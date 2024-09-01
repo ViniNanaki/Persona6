@@ -1,6 +1,6 @@
 ## Diálogos 
 ### Igor
-#### Bem-vindo à Sala de Velludo.
+#### Bem-vindo à Sala de Veludo.
 #### Meu nome é Igor. É um prazer conhecê-lo.
 #### Este lugar existe entre sonho e realidade, mente e matéria...
 #### Só quem assinou o contrato pode adentrar este local.

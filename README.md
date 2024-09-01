@@ -15,3 +15,11 @@
 
 ### Professora
 #### você dormiu a aula toda, señor, vai gañar un cero bien grande
+
+### Curupira
+#### Eu sou o guardião da natureza- "Curupira"!
+#### Eu sou a alma defensora que reside dentro de ti.
+#### Se desejar, posso considerar te ceder o poder para vencer esse importuno.
+##### | Me dê o seu poder! | nois família |
+#### Hum, muito bem...
+#### Este meu poder agora é seu! Libere toda a sede de justiça em seu coração!

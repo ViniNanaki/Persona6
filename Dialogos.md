@@ -19,19 +19,19 @@
 ##### | Estou pronto! | Ainda estou confuso... | Isso afeta outras pessoas? |
 
 #### 10.a - Você aparenta ser bem corajoso.
-#### 11.b - Isso não importa, por enquanto.
-#### 12.c - Suas escolhas reverberam todo o Inconsciente Coletivo...
+#### 10.b - Isso não importa, por enquanto.
+#### 10.c - Suas escolhas reverberam todo o Inconsciente Coletivo...
 
-#### 13 - Quer dizer... Você está destinado a enfrentar uma grande provação em breve.
-#### 14 - No entanto, por enquanto, você tem o direito de decidir seu próprio caminho.
-#### 15 - Com o tempo, entenderá o verdadeiro significado por trás do poder que você obteve...
-#### 16 - A partir de agora, você será confrontado com escolhas importantes.
-#### 17 - Mas por agora, devo perguntar: o que você fará com esse poder?
+#### 11 - Quer dizer... Você está destinado a enfrentar uma grande provação em breve.
+#### 12 - No entanto, por enquanto, você tem o direito de decidir seu próprio caminho.
+#### 13 - Com o tempo, entenderá o verdadeiro significado por trás do poder que você obteve...
+#### 14 - A partir de agora, você será confrontado com escolhas importantes.
+#### 15 - Mas por agora, devo perguntar: o que você fará com esse poder?
 
 ##### | Vou moldar meu destino! | Preciso pensar melhor... | Vou proteger os outros! |
 
-#### 18 - Interessante...
-#### 19 - Por enquanto é só. Até nosso próximo encontro...
+#### 16 - Interessante...
+#### 17 - Por enquanto é só. Até nosso próximo encontro...
 
 
 ### Professora

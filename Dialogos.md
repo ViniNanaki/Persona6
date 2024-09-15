@@ -28,7 +28,7 @@
 #### 16 - A partir de agora, você será confrontado com escolhas importantes.
 #### 17 - Mas por agora, devo perguntar: o que você fará com esse poder?
 
-##### | Moldar meu destino! | Preciso pensar melhor... | Vou proteger os outros! |
+##### | Vou moldar meu destino! | Preciso pensar melhor... | Vou proteger os outros! |
 
 #### 18 - Interessante...
 #### 19 - Por enquanto é só. Até nosso próximo encontro...

@@ -3,11 +3,11 @@
 #### 1 - Bem-vindo à Sala de Veludo!
 #### 2 - Meu nome é Igor, sou o mestre deste lugar. Estou muito feliz em fazer sua companhia nesta ocasião...
 
-##### | É um prazer conhecê-lo. | Opção 2 | Como cheguei até aqui? |
+##### | É um prazer conhecê-lo! | Como cheguei até aqui? | Tem outras pessoas aqui? |
 
 #### 3.a - O prazer é todo meu.
-#### 3.b - Resposta 2.
-#### 3.c - Você está aqui porque assinou o contrato.
+#### 3.b - Você está aqui porque assinou o contrato.
+#### 3.c - Estamos a sós aqui, por enquanto.
 
 #### 4 - Este lugar existe entre sonho e realidade, mente e matéria...
 #### 5 - Só quem assinou o contrato pode adentrar este local.
@@ -16,11 +16,11 @@
 #### 8 - Peço apenas uma coisa em troca...
 #### 9 - Cumpra o seu contrato e assuma plena responsabilidade pelas escolhas que fizer.
 
-##### | Tudo bem. | Não entendi. | Eu tô sonhando? |
+##### | Estou pronto! | Ainda estou confuso... | Isso afeta outras pessoas? |
 
 #### 10.a - Você aparenta ser bem corajoso.
 #### 11.b - Isso não importa, por enquanto.
-#### 12.c - O que é o sonho senão um espelho da realidade?
+#### 12.c - Suas escolhas reverberam todo o Inconsciente Coletivo...
 
 #### 13 - Quer dizer... Você está destinado a enfrentar uma grande provação em breve.
 #### 14 - No entanto, por enquanto, você tem o direito de decidir seu próprio caminho.
@@ -28,10 +28,10 @@
 #### 16 - A partir de agora, você será confrontado com escolhas importantes.
 #### 17 - Mas por agora, devo perguntar: o que você fará com esse poder?
 
-##### | Opção 1 | Opção 2 | Opção 3 |
+##### | Moldar meu destino! | Preciso pensar melhor... | Vou proteger os outros! |
 
 #### 18 - Interessante...
-#### 19 - Até nosso próximo encontro...
+#### 19 - Por enquanto é só. Até nosso próximo encontro...
 
 
 ### Professora
@@ -42,5 +42,5 @@
 #### Eu sou a alma defensora que reside dentro de ti.
 #### Se desejar, posso considerar te ceder o poder para vencer esse importuno.
 ##### | Me dê o seu poder! | Juntos, vamos restaurar o equilíbrio! |
-#### Hum, muito bem...
+#### Hmm, muito bem...
 #### Este meu poder agora é seu! Libere toda a sede de justiça em seu coração!

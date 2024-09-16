@@ -1,11 +1,13 @@
 ## Diálogos 
 ### Igor
+##### IgorSFX3
 #### 1 - Bem-vindo à Sala de Veludo!
 #### 2 - Meu nome é Igor, sou o mestre deste lugar.
 #### 3 - Estou muito feliz em fazer sua companhia nesta ocasião...
 
 ##### | É um prazer conhecê-lo! | Como cheguei até aqui? | Tem outras pessoas aqui? |
 
+##### IgorSFX1
 #### 4.a - O prazer é todo meu.
 #### 4.b - Você está aqui porque assinou o contrato.
 #### 4.c - Estamos a sós aqui, por enquanto.
@@ -19,6 +21,7 @@
 
 ##### | Estou pronto! | Ainda estou confuso... | Isso afeta outras pessoas? |
 
+##### IgorSFX2
 #### 11.a - Você aparenta ser bem corajoso.
 #### 11.b - Isso não importa, por enquanto.
 #### 11.c - Suas escolhas reverberam todo o Inconsciente Coletivo...
@@ -31,6 +34,7 @@
 
 ##### | Vou moldar meu destino! | Preciso pensar melhor... | Vou proteger os outros! |
 
+##### IgorSFX3
 #### 17 - Interessante...
 #### 18 - A Sala de Veludo estará sempre aqui para guiá-lo, sempre que precisar.
 #### 19 - Basta fechar os olhos e concentrar-se. A Sala de Veludo aparecerá para você.

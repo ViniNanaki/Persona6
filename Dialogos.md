@@ -43,7 +43,43 @@
 
 
 ### Professora
-#### você dormiu a aula toda, señor, vai gañar un cero bien grande
+#### 1 - Ah, finalmente acordou, não é?
+#### 2 - Você dormiu a aula inteira, sabia?
+#### 3 - Isso é inaceitável! Como espera aprender alguma coisa assim?
+
+##### | Desculpe, professora… | Eu estava muito cansado… | Não vai acontecer de novo… |
+
+#### 4.a - Desculpas não vão resolver nada agora.
+#### 4.b - Cansado ou não, você precisa prestar atenção nas aulas.
+#### 4.c - Espero que realmente não aconteça de novo.
+
+#### 5 - Esta é uma aula de Artes, não um dormitório.
+#### 6 - Se continuar assim, vai acabar reprovando.
+#### 7 - Precisa levar seus estudos mais a sério.
+#### 8 - Você tem potencial, mas precisa se esforçar mais.
+#### 9 - Não quero ver você desperdiçando suas oportunidades.
+#### 10 - Agora, pegue suas coisas e vá para a próxima aula.
+##### | Sim, professora… | Vou me esforçar mais… | Obrigado pelo aviso… |
+
+#### 11.a - Espero que sim.
+#### 11.b - É melhor mesmo.
+#### 11.c - De nada, mas não se esqueça do que eu disse.
+
+#### 12 - E lembre-se, estou de olho em você.
+#### 13 - Não quero ter que repetir essa conversa.
+#### 14 - Aproveite suas aulas e mostre do que é capaz.
+#### 15 - Você pode fazer melhor do que isso.
+#### 16 - Confio que você vai melhorar.
+
+##### | Vou fazer o meu melhor! | Prometo que vou mudar… | Vou me dedicar mais… |
+
+#### 17.a - É isso que eu quero ouvir.
+#### 17.b - Espero que cumpra sua promessa.
+#### 17.c - Dedicação é a chave para o sucesso.
+
+#### 18 - Agora vá, e não se esqueça do que conversamos.
+#### 19 - Boa sorte na próxima aula.
+#### 20 - E lembre-se, estou aqui para ajudar, se precisar.
 
 ### Curupira
 #### Eu sou o guardião da natureza- "Curupira"!

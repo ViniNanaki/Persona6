@@ -5,12 +5,12 @@
 #### 2 - Meu nome é Igor, sou o mestre deste lugar.
 #### 3 - Estou muito feliz em fazer sua companhia nesta ocasião...
 
-##### | É um prazer conhecê-lo! | Como cheguei até aqui? | Tem outras pessoas aqui? |
+##### | É um prazer conhecê-lo! | Como cheguei até aqui? | Este lugar me é familiar... |
 
 ##### IgorSFX1
 #### 4.a - O prazer é todo meu.
-#### 4.b - Você está aqui porque assinou o contrato.
-#### 4.c - Estamos a sós aqui, por enquanto.
+#### 4.b - Você está aqui porque assinou  um contrato, ainda que não se lembre.
+#### 4.c - Todos nós, em certo nível, já estivemos aqui.
 
 #### 5 - Este lugar existe entre sonho e realidade, mente e matéria...
 #### 6 - Só quem assinou o contrato pode adentrar este local.
@@ -22,9 +22,9 @@
 ##### | Estou pronto! | Ainda estou confuso... | Isso afeta outras pessoas? |
 
 ##### IgorSFX2
-#### 11.a - Você aparenta ser bem corajoso.
+#### 11.a - Você aparenta ser bem determinado.
 #### 11.b - Isso não importa, por enquanto.
-#### 11.c - Suas escolhas reverberam todo o Inconsciente Coletivo...
+#### 11.c - Suas escolhas reverberam por todo o Inconsciente Coletivo...
 
 #### 12 - Quer dizer... Você está destinado a enfrentar uma grande provação em breve.
 #### 13 - No entanto, por enquanto, você tem o direito de decidir seu próprio caminho.
@@ -35,7 +35,10 @@
 ##### | Vou moldar meu destino! | Preciso pensar melhor... | Vou proteger os outros! |
 
 ##### IgorSFX3
-#### 17 - Interessante...
+#### 17.a - Uma resposta interessante...
+#### 17.b - Não se apresse, mas lembre-se: hesitar demais pode custar caro.
+#### 17.c - Admirável. Usar seu poder para o bem maior reflete uma compreensão profunda do Inconsciente Coletivo.
+
 #### 18 - A Sala de Veludo estará sempre aqui para guiá-lo, sempre que precisar.
 #### 19 - Basta fechar os olhos e concentrar-se. A Sala de Veludo aparecerá para você.
 #### 20 - Por enquanto é só. Até nosso próximo encontro...
@@ -47,11 +50,11 @@
 #### 2 - Você dormiu a aula inteira, sabia?
 #### 3 - Isso é inaceitável! Como espera aprender alguma coisa assim?
 
-##### | Desculpe, professora… | Eu estava muito cansado… | Não vai acontecer de novo… |
+##### | Tem razão, me desculpe… | Estava muito cansado... | Fugi de algo sem saber... |
 
-#### 4.a - Desculpas não vão resolver nada agora.
-#### 4.b - Cansado ou não, você precisa prestar atenção nas aulas.
-#### 4.c - Espero que realmente não aconteça de novo.
+#### 4.a - Pelo menos reconhece o erro. Isso é um primeiro passo importante.
+#### 4.b - Cansado ou não, as obrigações estão aí para serem cumpridas.
+#### 4.c - Fugir de si mesmo ou dos outros nunca traz bons resultados. Vamos tentar enfrentar os desafios de frente, sim?
 
 #### 5 - Esta é uma aula de Artes, não um dormitório.
 #### 6 - Se continuar assim, vai acabar reprovando.
@@ -59,11 +62,12 @@
 #### 8 - Você tem potencial, mas precisa se esforçar mais.
 #### 9 - Não quero ver você desperdiçando suas oportunidades.
 #### 10 - Agora, pegue suas coisas e vá para a próxima aula.
-##### | Sim, professora… | Vou me esforçar mais… | Obrigado pelo aviso… |
 
-#### 11.a - Espero que sim.
-#### 11.b - É melhor mesmo.
-#### 11.c - De nada, mas não se esqueça do que eu disse.
+##### | Certo, vou me focar mais! | Preciso de mais energia... | Há algo me distraindo... |
+
+#### 11.a - Fico feliz em ouvir isso. Vamos ver essa mudança, então.
+#### 11.b - Manter o foco é fundamental. Veja como pode melhorar sua rotina.
+#### 11.c - Refletir sobre si mesmo é importante, mas o essencial é agir também.
 
 #### 12 - E lembre-se, estou de olho em você.
 #### 13 - Não quero ter que repetir essa conversa.
@@ -71,11 +75,11 @@
 #### 15 - Você pode fazer melhor do que isso.
 #### 16 - Confio que você vai melhorar.
 
-##### | Vou fazer o meu melhor! | Prometo que vou mudar… | Vou me dedicar mais… |
+##### | Vou dar meu melhor! | Prometo mudar. |  Algo em mim está mudando. |
 
-#### 17.a - É isso que eu quero ouvir.
-#### 17.b - Espero que cumpra sua promessa.
-#### 17.c - Dedicação é a chave para o sucesso.
+#### 17.a - É isso que quero ouvir! Siga esse caminho.
+#### 17.b - Eu espero que cumpra suas promessas desta vez.
+#### 17.c - Mudança é um processo. Mas o importante é que você esteja comprometido com ela.
 
 #### 18 - Agora vá, e não se esqueça do que conversamos.
 #### 19 - Boa sorte na próxima aula.

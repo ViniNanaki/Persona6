@@ -37,7 +37,7 @@
 ##### IgorSFX3
 #### 17.a - Uma resposta interessante...
 #### 17.b - Não se apresse, mas lembre-se: hesitar demais pode custar caro.
-#### 17.c - Admirável. Usar seu poder para o bem maior reflete uma compreensão profunda do Inconsciente Coletivo.
+#### 17.c - Admirável. Usar seu poder para o bem maior reflete uma compreensão profunda do seu propósito.
 
 #### 18 - A Sala de Veludo estará sempre aqui para guiá-lo, sempre que precisar.
 #### 19 - Basta fechar os olhos e concentrar-se. A Sala de Veludo aparecerá para você.
@@ -50,11 +50,11 @@
 #### 2 - Você dormiu a aula inteira, sabia?
 #### 3 - Isso é inaceitável! Como espera aprender alguma coisa assim?
 
-##### | Tem razão, me desculpe… | Estava muito cansado... | Fugi de algo sem saber... |
+##### | Tem razão, me desculpe… | Eu estava muito cansado... | Não quis decepcionar ninguém... |
 
 #### 4.a - Pelo menos reconhece o erro. Isso é um primeiro passo importante.
 #### 4.b - Cansado ou não, as obrigações estão aí para serem cumpridas.
-#### 4.c - Fugir de si mesmo ou dos outros nunca traz bons resultados. Vamos tentar enfrentar os desafios de frente, sim?
+#### 4.c - Sei que não, mas fugir nunca trás bons resultados. Vamos tentar enfrentar os desafios de frente, sim?
 
 #### 5 - Esta é uma aula de Artes, não um dormitório.
 #### 6 - Se continuar assim, vai acabar reprovando.
@@ -75,15 +75,17 @@
 #### 15 - Você pode fazer melhor do que isso.
 #### 16 - Confio que você vai melhorar.
 
-##### | Vou dar meu melhor! | Prometo mudar. |  Algo em mim está mudando. |
+##### | Vou dar meu melhor! | Prometo mudar. |  Vou te deixar orgulhosa. |
 
-#### 17.a - É isso que quero ouvir! Siga esse caminho.
+#### 17.a - Era isso o que eu queria ouvir! Siga esse caminho.
 #### 17.b - Eu espero que cumpra suas promessas desta vez.
-#### 17.c - Mudança é um processo. Mas o importante é que você esteja comprometido com ela.
+#### 17.c - A mudança é um processo. Mas o importante é que você esteja comprometido com ela.
 
 #### 18 - Agora vá, e não se esqueça do que conversamos.
 #### 19 - Boa sorte na próxima aula.
 #### 20 - E lembre-se, estou aqui para ajudar, se precisar.
+
+
 
 ### Curupira
 #### Eu sou o guardião da natureza- "Curupira"!
